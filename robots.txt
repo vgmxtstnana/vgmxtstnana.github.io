@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vgmxtstnana.github.io/sitemap.xml
